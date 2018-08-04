@@ -1,17 +1,235 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ac86247-c58f-4c6a-a69e-1da63601d9ce" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/gutenberg/alice30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/gutenberg/crsto10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch02/ImageViewer/cay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch02/ImageViewer/duke.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch02/ImageViewer/mug.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch02/RoadApplet/RoadApplet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch02/RoadApplet/RoadApplet.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch02/RoadApplet/RoadApplet.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch02/RoadApplet/makejar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch07/except/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch09/sieve/sieve.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch10/blue-ball.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch10/icon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch11/blue-ball.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch11/red-ball.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch11/yellow-ball.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch12/ace.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch12/blue-ball.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch12/copy.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch12/cut.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch12/exit.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch12/jack.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch12/king.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch12/nine.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch12/palette.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch12/paste.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch12/queen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch12/red-ball.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch12/ten.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch12/yellow-ball.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch13/META-INF/services/serviceLoader.Cipher" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch13/NotHelloWorldApplet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch13/ResourceTest.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch13/chart/Chart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch13/java.policy.applet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch13/resource/ResourceTest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch13/resource/about.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch13/resource/about.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch13/webstart/Calculator.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch13/webstart/Calculator.jnlp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch13/webstart/calc_icon32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v1ch13/webstart/calc_icon64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch01/cities.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch02/employee.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch02/employee2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch02/employee3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch02/objectStream/employee.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch02/textFile/employee.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch03/dom/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch03/fontdialog-schema.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch03/fontdialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch03/gridbag.dtd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch03/gridbag.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch03/transform/employee.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch03/transform/makehtml.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch03/transform/makeprop.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch03/xpath/fontdialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch03/xpath/gridbag.dtd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch04/mail/mail.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch04/mail/message.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch04/post/post.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch05/Authors.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch05/Books.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch05/BooksAuthors.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch05/Publishers.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch05/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch05/derby.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch07/retire/RetireStrings.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch07/retire/RetireStrings_de.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch07/retire/RetireStrings_zh.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch08/buttons1/Renjin.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch08/buttons1/groovy.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch08/buttons1/init.Renjin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch08/buttons1/init.sisc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch08/buttons1/nashorn.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch08/buttons1/sisc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch08/buttons2/action.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch08/bytecodeAnnotations/EntryLoggingAgent.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch08/bytecodeAnnotations/EntryLoggingAgent.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/Calculator.caesar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/CalculatorFrame.caesar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/CalculatorPanel$1.caesar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/CalculatorPanel$CommandAction.caesar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/CalculatorPanel$InsertAction.caesar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/CalculatorPanel.caesar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/FileReadApplet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/applet.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/auth/AuthTest.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/auth/action.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/auth/jaas.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/auth/login.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/hash/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/jaas/JAASTest.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/jaas/jaas.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/jaas/password.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/permissions/PermissionTest.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch09/verifier/VerifierTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/internalFrame/Earth.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/internalFrame/Jupiter.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/internalFrame/Mars.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/internalFrame/Mercury.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/internalFrame/Neptune.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/internalFrame/Pluto.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/internalFrame/Saturn.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/internalFrame/Uranus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/internalFrame/Venus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/internalFrame/document.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/splitPane/Earth.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/splitPane/Jupiter.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/splitPane/Mars.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/splitPane/Mercury.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/splitPane/Neptune.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/splitPane/Pluto.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/splitPane/Saturn.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/splitPane/Uranus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/splitPane/Venus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tabbedPane/Earth.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tabbedPane/Jupiter.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tabbedPane/Mars.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tabbedPane/Mercury.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tabbedPane/Neptune.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tabbedPane/Pluto.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tabbedPane/Saturn.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tabbedPane/Uranus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tabbedPane/Venus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tabbedPane/red-ball.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tabbedPane/yellow-ball.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableCellRender/Earth.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableCellRender/Jupiter.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableCellRender/Mars.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableCellRender/Mercury.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableCellRender/Moons.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableCellRender/Neptune.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableCellRender/Pluto.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableCellRender/Saturn.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableCellRender/Uranus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableCellRender/Venus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableRowColumn/Earth.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableRowColumn/Jupiter.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableRowColumn/Mars.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableRowColumn/Mercury.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableRowColumn/Neptune.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableRowColumn/Pluto.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableRowColumn/Saturn.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableRowColumn/Uranus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/tableRowColumn/Venus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/treeRender/blue-ball.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/treeRender/red-ball.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch10/treeRender/yellow-ball.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch11/cj2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch11/cj8v2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch11/dndImage/images1/Jupiter.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch11/dndImage/images1/Mars.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch11/dndImage/images1/Mercury.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch11/dndImage/images1/Neptune.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch11/dndImage/images1/Pluto.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch11/dndImage/images1/Uranus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch11/dndImage/images1/Venus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch11/dndImage/images2/Earth.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch11/dndImage/images2/Saturn.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch11/imageIO/e-mail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch11/renderQuality/face.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch11/splashScreen/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch11/systemTray/cookie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch11/systemTray/fortunes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch12/employee/Employee.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch12/helloNative/HelloNative.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch12/helloNative/HelloNative.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch12/invocation/InvocationTest.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch12/printf1/Printf1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch12/printf2/Printf2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch12/printf3/Printf3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch12/printf4/Printf4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCod/com/liupp/corejava/v2ch12/win32reg/Win32RegKey.c" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/liupp/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
-              <folding />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/liupp/java/test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+              <folding>
+                <element signature="e#89#90#0" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/liupp/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="292" />
@@ -19,72 +237,299 @@
     <option name="width" value="1398" />
     <option name="height" value="964" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="javaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaCode" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaCode" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.liupp.Main" />
-      <module name="untitled104" />
+      <module name="javaCode" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liupp.java.test1" />
+      <module name="javaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liupp.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ac86247-c58f-4c6a-a69e-1da63601d9ce" name="Default" comment="" />
+      <created>1533380105022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533380105022</updated>
+      <workItem from="1533380108525" duration="2438000" />
+      <workItem from="1533388707459" duration="275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2789000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32948583" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32948583" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33053514" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25262576" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33053514" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32948583" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.32948583" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25262576" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/liupp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/v2ch11/transferText/TextTransferFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="61" column="44" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liupp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaCode.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liupp/java/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liupp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liupp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaCode.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/v2ch11/transferText/TextTransferFrame.java" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaCod</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
