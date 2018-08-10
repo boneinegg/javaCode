@@ -1,4 +1,4 @@
-package com.liupp.java;
+package javaCode;
 
 import java.util.*;
 import java.lang.reflect.*;
@@ -21,7 +21,7 @@ public class ReflectionTest
 //            System.out.println("Enter class name (e.g. java.util.Date): ");
 //            name = in.next();
 //        }
-        name = "com.liupp.java.Test1";
+        name = "Test1";
         try
         {
             // print class name and superclass name (if != Object)
@@ -116,7 +116,7 @@ public class ReflectionTest
         try {
             Field field = cl.getDeclaredField("name");
         }catch (Exception e) {
-
+            e.printStackTrace();
         }
         for (Field f : fields)
         {
