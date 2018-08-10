@@ -8,7 +8,7 @@ public class Product {
     private int id;
     private String name = "product_1";
 
-    private final Category category;
+    private Category category;
 
     @Autowired
     public Product(Category category) {
