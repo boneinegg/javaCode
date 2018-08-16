@@ -1,7 +1,9 @@
 package javaCode.datastructure;
 
 
-public class Queue {
+import org.springframework.orm.jpa.vendor.EclipseLinkJpaDialect;
+
+public class ArrayQueue {
 
     private int [] queArray;
     private int maxSize;
@@ -10,7 +12,7 @@ public class Queue {
     private int length; //队列长度
 
     //构造方法，初始化队列
-    public Queue(int maxSize){
+    public ArrayQueue(int maxSize){
         this.maxSize = maxSize;
         queArray = new int [maxSize];
         front = 0;
@@ -68,4 +70,18 @@ public class Queue {
         return (length == maxSize);
     }
 
+    public static void main(String[] args) {
+        ArrayQueue aq = new ArrayQueue(3);
+        try {
+            aq.isEmpty();
+            aq.insert(11);
+            aq.insert(3);
+            aq.insert(2);
+//            aq.insert(4);
+            while (!aq.isEmpty())
+                System.out.println(aq.remove());
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
 }
