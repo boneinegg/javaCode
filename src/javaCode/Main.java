@@ -2,6 +2,8 @@ package javaCode;
 
 import java.util.*;
 import java.time.LocalDate;
+import java.util.concurrent.atomic.AtomicInteger;
+
 public class Main {
 
     public static long f(long n) {
@@ -17,7 +19,12 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        count(f(7));
-        count(f(9));
+//        count(f(7));
+//        count(f(9));
+        AtomicInteger atomicInteger = new AtomicInteger(1);
+//        atomicInteger.getAndIncrement();
+        System.out.println(atomicInteger.getAndIncrement());
+//        atomicInteger.incrementAndGet();
+        System.out.println(atomicInteger.incrementAndGet());
     }
 }
