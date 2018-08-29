@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang = "en">
+
+<head>
+
+<link rel="shortcut icon" href="https://algs4.cs.princeton.edu/favicon.ico">
+<link rel="stylesheet"    href="https://algs4.cs.princeton.edu/java.css" type="text/css">
+
+<title>Wget.java</title>
+
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<meta NAME="AUTHOR" CONTENT="Robert Sedgewick and Kevin Wayne">
+<meta NAME="DESCRIPTION" CONTENT="Wget code in Java">
+<meta NAME="TITLE" CONTENT="Wget code in Java">
+<meta NAME="KEYWORDS" CONTENT="Wget,java,programming,computer science,algorithm,data structure,program,code">
+<meta NAME="ROBOTS" CONTENT="INDEX,FOLLOW">
+
+</head>
+
+
+<body>
+<center><h1>Wget.java</h1></center><p><br>
+
+Below is the syntax highlighted version of <a href = "Wget.java">Wget.java</a>
+from <a href = "https://algs4.cs.princeton.edu/11model">&#167;1.1 Programming Model</a>.
+<p><br>
+
+<!-- Generator: GNU source-highlight 3.1.6
+by Lorenzo Bettini
+http://www.lorenzobettini.it
+http://www.gnu.org/software/src-highlite -->
+<pre><tt><span class="comment">/******************************************************************************</span>
+<span class="comment"> *  Compilation:  javac Wget.java</span>
+<span class="comment"> *  Execution:    java Wget url</span>
+<span class="comment"> *  Dependencies: In.java Out.java</span>
+<span class="comment"> *</span>
+<span class="comment"> *  Reads in a URL specified on the command line and saves its contents</span>
+<span class="comment"> *  in a file with the given name.</span>
+<span class="comment"> *</span>
+<span class="comment"> *  % java Wget </span><span class="url">http://introcs.cs.princeton.edu/java/data/codes.csv</span>
+<span class="comment"> *</span>
+<span class="comment"> ******************************************************************************/</span>
+
+<span class="keyword">public</span><span class="normal"> </span><span class="keyword">class</span><span class="normal"> </span><span class="classname">Wget</span><span class="normal"> </span><span class="cbracket">{</span>
+
+<span class="normal">    </span><span class="keyword">public</span><span class="normal"> </span><span class="keyword">static</span><span class="normal"> </span><span class="type">void</span><span class="normal"> </span><span class="function">main</span><span class="symbol">(</span><span class="normal">String</span><span class="symbol">[]</span><span class="normal"> args</span><span class="symbol">)</span><span class="normal"> </span><span class="cbracket">{</span>
+
+<span class="normal">        </span><span class="comment">// read in data from URL</span>
+<span class="normal">        </span><span class="usertype">String</span><span class="normal"> url </span><span class="symbol">=</span><span class="normal"> args</span><span class="symbol">[</span><span class="number">0</span><span class="symbol">];</span>
+<span class="normal">        </span><span class="usertype">In</span><span class="normal"> in </span><span class="symbol">=</span><span class="normal"> </span><span class="keyword">new</span><span class="normal"> </span><span class="function">In</span><span class="symbol">(</span><span class="normal">url</span><span class="symbol">);</span>
+<span class="normal">        </span><span class="usertype">String</span><span class="normal"> data </span><span class="symbol">=</span><span class="normal"> in</span><span class="symbol">.</span><span class="function">readAll</span><span class="symbol">();</span>
+
+<span class="normal">        </span><span class="comment">// write data to a file</span>
+<span class="normal">        </span><span class="usertype">String</span><span class="normal"> filename </span><span class="symbol">=</span><span class="normal"> url</span><span class="symbol">.</span><span class="function">substring</span><span class="symbol">(</span><span class="normal">url</span><span class="symbol">.</span><span class="function">lastIndexOf</span><span class="symbol">(</span><span class="string">'/'</span><span class="symbol">)</span><span class="normal"> </span><span class="symbol">+</span><span class="normal"> </span><span class="number">1</span><span class="symbol">);</span>
+<span class="normal">        </span><span class="usertype">Out</span><span class="normal"> out </span><span class="symbol">=</span><span class="normal"> </span><span class="keyword">new</span><span class="normal"> </span><span class="function">Out</span><span class="symbol">(</span><span class="normal">filename</span><span class="symbol">);</span>
+<span class="normal">        out</span><span class="symbol">.</span><span class="function">println</span><span class="symbol">(</span><span class="normal">data</span><span class="symbol">);</span>
+<span class="normal">        out</span><span class="symbol">.</span><span class="function">close</span><span class="symbol">();</span>
+<span class="normal">    </span><span class="cbracket">}</span>
+
+<span class="cbracket">}</span>
+</tt></pre>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10811519-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+
+<p><br><address><small>
+Copyright &copy; 2000&ndash;2017, Robert Sedgewick and Kevin Wayne.
+<br>Last updated: Fri Oct 20 12:50:46 EDT 2017.
+</small></address>
+
+</html>
+

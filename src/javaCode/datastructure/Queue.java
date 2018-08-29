@@ -1,71 +1,92 @@
 package javaCode.datastructure;
 
+import java.util.Iterator;
+import java.util.NoSuchElementException;
 
-public class Queue {
+public class Queue<Item> implements Iterable<Item> {
+    private Node<Item> first;
+    private Node<Item> last;
+    private int n;
 
-    private int [] queArray;
-    private int maxSize;
-    public int front;   //存储队头元素的下标
-    public int rear;    //存储队尾元素的下标
-    private int length; //队列长度
-
-    //构造方法，初始化队列
-    public Queue(int maxSize){
-        this.maxSize = maxSize;
-        queArray = new int [maxSize];
-        front = 0;
-        rear = -1;
-        length = 0;
+    private static class Node<Item> {
+        private Item item;
+        private Node<Item> next;
     }
 
-    //插入
-    public void insert(int elem) throws Exception{
-        if(isFull()){
-            throw new Exception("队列已满，不能进行插入操作！");
+    public Queue() {
+        first = null;
+        last = null;
+        n = 0;
+    }
+
+    public boolean isEmpty() {
+        return first == null;
+    }
+
+    public int size() {
+        return n;
+    }
+
+    public Item peek() {
+        if (isEmpty()) throw new NoSuchElementException("Queue underflow");
+        return first.item;
+    }
+
+    public void enqueue(Item item) {
+        Node<Item> oldLast = last;
+        last = new Node<>();
+        last.item = item;
+        last.next = null;
+        if (isEmpty()) first = last;
+        else           oldLast.next = last;
+        n++;
+    }
+
+    public Item dequeue() {
+        if (isEmpty()) throw new NoSuchElementException("Queue underflow");
+        Item item = first.item;
+        first = first.next;
+        n--;
+        if (isEmpty()) last = null;
+        return  item;
+    }
+
+    public String toSring() {
+        StringBuilder s = new StringBuilder();
+        for (Item i : this) {
+            s.append(i);
+            s.append(" ");
         }
-        //如果队尾指针已到达数组的末端，插入到数组的第一个位置
-        if(rear == maxSize-1){
-            rear = -1;
+        return s.toString();
+    }
+
+    public Iterator<Item> iterator() {
+        return new ListIterator<>(first);
+    }
+
+    private class ListIterator<Item> implements Iterator<Item> {
+        private Node<Item> current;
+
+        public ListIterator(Node<Item> first) {
+            current = first;
         }
-        queArray[++rear] = elem;
-        length++;
-    }
 
-    //移除
-    public int remove() throws Exception{
-        if(isEmpty()){
-            throw new Exception("队列为空，不能进行移除操作！");
+        @Override
+        public boolean hasNext() {
+            return current != null;
         }
-        int elem = queArray[front++];
-        //如果队头指针已到达数组末端，则移到数组第一个位置
-        if(front == maxSize){
-            front = 0;
+
+        @Override
+        public void remove() {
+            throw new UnsupportedOperationException();
         }
-        length--;
-        return elem;
-    }
 
-    //查看队头元素
-    public int peek() throws Exception{
-        if(isEmpty()){
-            throw new Exception("队列内没有元素！");
+        @Override
+        public Item next() {
+            if (!hasNext()) throw new NoSuchElementException();
+            Item item = current.item;
+            current = current.next;
+            return item;
         }
-        return queArray[front];
     }
-
-    //获取队列长度
-    public int size(){
-        return length;
-    }
-
-    //判空
-    public boolean isEmpty(){
-        return (length == 0);
-    }
-
-    //判满
-    public boolean isFull(){
-        return (length == maxSize);
-    }
-
 }
